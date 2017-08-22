@@ -1,0 +1,9 @@
+{
+  "name": "renewableStats",
+  "description": "Generates JSON response to Alexa flash briefing",
+  "private": true,
+  "dependencies": {
+    "xml2js": "latest",
+    "https": "latest"
+  }
+}
